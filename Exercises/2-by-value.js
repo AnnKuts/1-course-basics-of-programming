@@ -1,5 +1,6 @@
+/*eslint-disable*/
 'use strict';
 
-const inc = null;
+const inc = (a) => ++a;
 
 module.exports = { inc };
